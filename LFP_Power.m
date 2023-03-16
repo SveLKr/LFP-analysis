@@ -5,7 +5,7 @@ datapath = 'I:\data';
 opath    = 'I:\LFP_power';
 
 
-%%
+%% This analysis is based on the burst detection protocoll described by Tinkhauser et al.: The modulatory effect of adaptive deep brain stimulation on beta bursts in Parkinson's disease (DOI: 10.1093/brain/awx010)
 
 cd(wrkpath)
 addpath(genpath(fullfile(wrkpath,'matlab_code')))
